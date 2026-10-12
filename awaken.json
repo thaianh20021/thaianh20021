@@ -1,0 +1,16 @@
+{
+  "username": "thaianh20021",
+  "layout": "classic",
+  "theme": "cyberpunk",
+  "activity": "arise",
+  "icons": "brand",
+  "motion": "full",
+  "timezone": "Asia/Ho_Chi_Minh",
+  "arsenal": [
+    "python",
+    "pytorch",
+    "huggingface",
+    "docker",
+    "fastapi"
+  ]
+}
