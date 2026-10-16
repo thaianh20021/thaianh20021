@@ -2,7 +2,7 @@
   "login": "thaianh20021",
   "level": 4,
   "overall": "B",
-  "overallPercentile": 0.8339306628205224,
+  "overallPercentile": 0.8367875213092123,
   "layout": "classic",
   "class": {
     "name": "Summoner",
@@ -13,9 +13,9 @@
   "stats": [
     {
       "code": "STR",
-      "value": 64,
+      "value": 66,
       "rank": "D",
-      "percentile": 0.5711254953797361
+      "percentile": 0.5786621313993581
     },
     {
       "code": "AGI",
@@ -31,9 +31,9 @@
     },
     {
       "code": "VIT",
-      "value": 10,
-      "rank": "A",
-      "percentile": 0.9348315269247548
+      "value": 11,
+      "rank": "S",
+      "percentile": 0.9499142157630279
     },
     {
       "code": "LUK",
@@ -48,7 +48,22 @@
       "percentile": 0.6689367771328458
     }
   ],
-  "events": [],
+  "events": [
+    {
+      "kind": "stat",
+      "subject": "VIT",
+      "from": "A",
+      "to": "S",
+      "at": "2026-10-16T19:55:52.408Z"
+    },
+    {
+      "kind": "achievement",
+      "subject": "collector",
+      "from": "0",
+      "to": "1",
+      "at": "2026-10-16T19:55:52.408Z"
+    }
+  ],
   "achievements": [
     {
       "id": "pull-shark",
@@ -68,7 +83,7 @@
     {
       "id": "relentless",
       "tier": 0,
-      "value": 64
+      "value": 66
     },
     {
       "id": "unbroken",
@@ -78,7 +93,7 @@
     {
       "id": "night-owl",
       "tier": 3,
-      "value": 48
+      "value": 46
     },
     {
       "id": "early-bird",
@@ -87,8 +102,8 @@
     },
     {
       "id": "weekend-warrior",
-      "tier": 2,
-      "value": 30
+      "tier": 1,
+      "value": 29
     },
     {
       "id": "gate-opener",
@@ -143,7 +158,7 @@
     {
       "id": "diligent",
       "tier": 0,
-      "value": 39
+      "value": 40
     },
     {
       "id": "daily-grinder",
@@ -158,7 +173,7 @@
     {
       "id": "quest-hunter",
       "tier": 0,
-      "value": 8
+      "value": 10
     },
     {
       "id": "boss-slayer",
@@ -172,12 +187,17 @@
     },
     {
       "id": "collector",
-      "tier": 0,
-      "value": 3
+      "tier": 1,
+      "value": 4
     }
   ],
   "quests": {
     "days": [
+      {
+        "date": "2026-10-16",
+        "cleared": 2,
+        "total": 3
+      },
       {
         "date": "2026-10-15",
         "cleared": 1,
@@ -207,7 +227,7 @@
     "perfectDays": 1,
     "run": 0,
     "bestRun": 1,
-    "questsDone": 8,
+    "questsDone": 10,
     "bosses": [
       "2026-10-12",
       "2026-10-05"
@@ -216,8 +236,9 @@
     "kinds": [
       "mp",
       "contribute",
-      "average"
+      "average",
+      "commit"
     ]
   },
-  "syncedAt": "2026-10-15T20:18:56.403Z"
+  "syncedAt": "2026-10-16T19:55:52.408Z"
 }
