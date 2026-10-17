@@ -2,7 +2,7 @@
   "login": "thaianh20021",
   "level": 4,
   "overall": "B",
-  "overallPercentile": 0.8367875213092123,
+  "overallPercentile": 0.8399197110434611,
   "layout": "classic",
   "class": {
     "name": "Summoner",
@@ -37,9 +37,9 @@
     },
     {
       "code": "LUK",
-      "value": 1,
+      "value": 2,
       "rank": "B",
-      "percentile": 0.7912280168701755
+      "percentile": 0.817666884430308
     },
     {
       "code": "CHA",
@@ -133,7 +133,7 @@
     {
       "id": "star-collector",
       "tier": 0,
-      "value": 1
+      "value": 2
     },
     {
       "id": "beacon",
@@ -173,7 +173,7 @@
     {
       "id": "quest-hunter",
       "tier": 0,
-      "value": 10
+      "value": 12
     },
     {
       "id": "boss-slayer",
@@ -188,11 +188,16 @@
     {
       "id": "collector",
       "tier": 1,
-      "value": 4
+      "value": 5
     }
   ],
   "quests": {
     "days": [
+      {
+        "date": "2026-10-17",
+        "cleared": 2,
+        "total": 3
+      },
       {
         "date": "2026-10-16",
         "cleared": 2,
@@ -227,7 +232,7 @@
     "perfectDays": 1,
     "run": 0,
     "bestRun": 1,
-    "questsDone": 10,
+    "questsDone": 12,
     "bosses": [
       "2026-10-12",
       "2026-10-05"
@@ -237,8 +242,9 @@
       "mp",
       "contribute",
       "average",
-      "commit"
+      "commit",
+      "streak"
     ]
   },
-  "syncedAt": "2026-10-16T19:55:52.408Z"
+  "syncedAt": "2026-10-17T19:19:14.987Z"
 }
