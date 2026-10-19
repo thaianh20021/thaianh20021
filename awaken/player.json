@@ -2,7 +2,7 @@
   "login": "thaianh20021",
   "level": 4,
   "overall": "B",
-  "overallPercentile": 0.8399197110434611,
+  "overallPercentile": 0.8341669271037007,
   "layout": "classic",
   "class": {
     "name": "Summoner",
@@ -13,9 +13,9 @@
   "stats": [
     {
       "code": "STR",
-      "value": 66,
+      "value": 65,
       "rank": "D",
-      "percentile": 0.5786621313993581
+      "percentile": 0.5749250433022051
     },
     {
       "code": "AGI",
@@ -31,15 +31,15 @@
     },
     {
       "code": "VIT",
-      "value": 11,
-      "rank": "S",
-      "percentile": 0.9499142157630279
+      "value": 10,
+      "rank": "A",
+      "percentile": 0.9348315269247548
     },
     {
       "code": "LUK",
-      "value": 2,
+      "value": 1,
       "rank": "B",
-      "percentile": 0.817666884430308
+      "percentile": 0.7912280168701755
     },
     {
       "code": "CHA",
@@ -49,6 +49,20 @@
     }
   ],
   "events": [
+    {
+      "kind": "stat",
+      "subject": "VIT",
+      "from": "S",
+      "to": "A",
+      "at": "2026-10-19T21:29:14.862Z"
+    },
+    {
+      "kind": "achievement",
+      "subject": "weekend-warrior",
+      "from": "1",
+      "to": "2",
+      "at": "2026-10-19T21:29:14.862Z"
+    },
     {
       "kind": "stat",
       "subject": "VIT",
@@ -83,7 +97,7 @@
     {
       "id": "relentless",
       "tier": 0,
-      "value": 66
+      "value": 65
     },
     {
       "id": "unbroken",
@@ -93,7 +107,7 @@
     {
       "id": "night-owl",
       "tier": 3,
-      "value": 46
+      "value": 47
     },
     {
       "id": "early-bird",
@@ -102,13 +116,13 @@
     },
     {
       "id": "weekend-warrior",
-      "tier": 1,
-      "value": 29
+      "tier": 2,
+      "value": 30
     },
     {
       "id": "gate-opener",
       "tier": 2,
-      "value": 41
+      "value": 40
     },
     {
       "id": "raider",
@@ -133,7 +147,7 @@
     {
       "id": "star-collector",
       "tier": 0,
-      "value": 2
+      "value": 1
     },
     {
       "id": "beacon",
@@ -173,7 +187,7 @@
     {
       "id": "quest-hunter",
       "tier": 0,
-      "value": 12
+      "value": 13
     },
     {
       "id": "boss-slayer",
@@ -193,6 +207,11 @@
   ],
   "quests": {
     "days": [
+      {
+        "date": "2026-10-19",
+        "cleared": 1,
+        "total": 3
+      },
       {
         "date": "2026-10-18",
         "cleared": 0,
@@ -237,7 +256,7 @@
     "perfectDays": 1,
     "run": 0,
     "bestRun": 1,
-    "questsDone": 12,
+    "questsDone": 13,
     "bosses": [
       "2026-10-12",
       "2026-10-05"
@@ -251,5 +270,5 @@
       "streak"
     ]
   },
-  "syncedAt": "2026-10-18T19:24:27.552Z"
+  "syncedAt": "2026-10-19T21:29:14.862Z"
 }
