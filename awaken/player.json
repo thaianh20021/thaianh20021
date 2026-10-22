@@ -2,7 +2,7 @@
   "login": "thaianh20021",
   "level": 4,
   "overall": "B",
-  "overallPercentile": 0.8341669271037007,
+  "overallPercentile": 0.8367875213092123,
   "layout": "classic",
   "class": {
     "name": "Summoner",
@@ -13,9 +13,9 @@
   "stats": [
     {
       "code": "STR",
-      "value": 65,
+      "value": 66,
       "rank": "D",
-      "percentile": 0.5749250433022051
+      "percentile": 0.5786621313993581
     },
     {
       "code": "AGI",
@@ -31,9 +31,9 @@
     },
     {
       "code": "VIT",
-      "value": 10,
-      "rank": "A",
-      "percentile": 0.9348315269247548
+      "value": 11,
+      "rank": "S",
+      "percentile": 0.9499142157630279
     },
     {
       "code": "LUK",
@@ -49,6 +49,13 @@
     }
   ],
   "events": [
+    {
+      "kind": "stat",
+      "subject": "VIT",
+      "from": "A",
+      "to": "S",
+      "at": "2026-10-22T20:32:30.694Z"
+    },
     {
       "kind": "stat",
       "subject": "VIT",
@@ -97,7 +104,7 @@
     {
       "id": "relentless",
       "tier": 0,
-      "value": 65
+      "value": 66
     },
     {
       "id": "unbroken",
@@ -107,7 +114,7 @@
     {
       "id": "night-owl",
       "tier": 3,
-      "value": 47
+      "value": 46
     },
     {
       "id": "early-bird",
@@ -116,13 +123,13 @@
     },
     {
       "id": "weekend-warrior",
-      "tier": 2,
-      "value": 30
+      "tier": 1,
+      "value": 29
     },
     {
       "id": "gate-opener",
       "tier": 2,
-      "value": 40
+      "value": 41
     },
     {
       "id": "raider",
@@ -208,6 +215,11 @@
   "quests": {
     "days": [
       {
+        "date": "2026-10-22",
+        "cleared": 0,
+        "total": 3
+      },
+      {
         "date": "2026-10-21",
         "cleared": 0,
         "total": 3
@@ -280,5 +292,5 @@
       "streak"
     ]
   },
-  "syncedAt": "2026-10-21T20:35:37.071Z"
+  "syncedAt": "2026-10-22T20:32:30.694Z"
 }
