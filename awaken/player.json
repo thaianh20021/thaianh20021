@@ -69,20 +69,6 @@
       "from": "1",
       "to": "2",
       "at": "2026-10-19T21:29:14.862Z"
-    },
-    {
-      "kind": "stat",
-      "subject": "VIT",
-      "from": "A",
-      "to": "S",
-      "at": "2026-10-16T19:55:52.408Z"
-    },
-    {
-      "kind": "achievement",
-      "subject": "collector",
-      "from": "0",
-      "to": "1",
-      "at": "2026-10-16T19:55:52.408Z"
     }
   ],
   "achievements": [
@@ -215,6 +201,11 @@
   "quests": {
     "days": [
       {
+        "date": "2026-10-23",
+        "cleared": 0,
+        "total": 3
+      },
+      {
         "date": "2026-10-22",
         "cleared": 0,
         "total": 3
@@ -292,5 +283,5 @@
       "streak"
     ]
   },
-  "syncedAt": "2026-10-22T20:32:30.694Z"
+  "syncedAt": "2026-10-23T20:23:30.648Z"
 }
