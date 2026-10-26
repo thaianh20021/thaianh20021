@@ -55,20 +55,6 @@
       "from": "A",
       "to": "S",
       "at": "2026-10-22T20:32:30.694Z"
-    },
-    {
-      "kind": "stat",
-      "subject": "VIT",
-      "from": "S",
-      "to": "A",
-      "at": "2026-10-19T21:29:14.862Z"
-    },
-    {
-      "kind": "achievement",
-      "subject": "weekend-warrior",
-      "from": "1",
-      "to": "2",
-      "at": "2026-10-19T21:29:14.862Z"
     }
   ],
   "achievements": [
@@ -201,6 +187,11 @@
   "quests": {
     "days": [
       {
+        "date": "2026-10-26",
+        "cleared": 0,
+        "total": 3
+      },
+      {
         "date": "2026-10-25",
         "cleared": 0,
         "total": 3
@@ -293,5 +284,5 @@
       "streak"
     ]
   },
-  "syncedAt": "2026-10-25T19:34:09.665Z"
+  "syncedAt": "2026-10-26T21:37:28.532Z"
 }
