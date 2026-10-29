@@ -48,15 +48,7 @@
       "percentile": 0.6689367771328458
     }
   ],
-  "events": [
-    {
-      "kind": "stat",
-      "subject": "VIT",
-      "from": "A",
-      "to": "S",
-      "at": "2026-10-22T20:32:30.694Z"
-    }
-  ],
+  "events": [],
   "achievements": [
     {
       "id": "pull-shark",
@@ -187,6 +179,11 @@
   "quests": {
     "days": [
       {
+        "date": "2026-10-29",
+        "cleared": 0,
+        "total": 3
+      },
+      {
         "date": "2026-10-28",
         "cleared": 1,
         "total": 3
@@ -295,5 +292,5 @@
       "star"
     ]
   },
-  "syncedAt": "2026-10-28T21:38:08.251Z"
+  "syncedAt": "2026-10-29T21:45:35.713Z"
 }
