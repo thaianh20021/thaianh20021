@@ -48,7 +48,15 @@
       "percentile": 0.6689367771328458
     }
   ],
-  "events": [],
+  "events": [
+    {
+      "kind": "achievement",
+      "subject": "collector",
+      "from": "1",
+      "to": "2",
+      "at": "2026-11-14T21:24:59.055Z"
+    }
+  ],
   "achievements": [
     {
       "id": "pull-shark",
@@ -158,7 +166,7 @@
     {
       "id": "quest-hunter",
       "tier": 0,
-      "value": 21
+      "value": 23
     },
     {
       "id": "boss-slayer",
@@ -172,12 +180,17 @@
     },
     {
       "id": "collector",
-      "tier": 1,
-      "value": 6
+      "tier": 2,
+      "value": 7
     }
   ],
   "quests": {
     "days": [
+      {
+        "date": "2026-11-14",
+        "cleared": 2,
+        "total": 3
+      },
       {
         "date": "2026-11-13",
         "cleared": 2,
@@ -352,7 +365,7 @@
     "perfectDays": 1,
     "run": 0,
     "bestRun": 1,
-    "questsDone": 21,
+    "questsDone": 23,
     "bosses": [
       "2026-11-02",
       "2026-10-12",
@@ -365,8 +378,9 @@
       "average",
       "commit",
       "streak",
-      "star"
+      "star",
+      "weekend"
     ]
   },
-  "syncedAt": "2026-11-13T22:33:33.358Z"
+  "syncedAt": "2026-11-14T21:24:59.055Z"
 }
