@@ -20,7 +20,7 @@
 
 <p align="center">
 <img src="awaken/rune-str-dark.svg" width="24%" alt="STR: rank D">
-<img src="awaken/rune-agi-dark.svg" width="24%" alt="AGI: rank C">
+<img src="awaken/rune-agi-dark.svg" width="24%" alt="AGI: rank B">
 <img src="awaken/rune-int-dark.svg" width="24%" alt="INT: rank E">
 <img src="awaken/rune-vit-dark.svg" width="24%" alt="VIT: rank S">
 </p>

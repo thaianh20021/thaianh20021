@@ -2,7 +2,7 @@
   "login": "thaianh20021",
   "level": 5,
   "overall": "B",
-  "overallPercentile": 0.8452592638686761,
+  "overallPercentile": 0.8466575604067939,
   "layout": "classic",
   "class": {
     "name": "Summoner",
@@ -19,9 +19,9 @@
     },
     {
       "code": "AGI",
-      "value": 5,
-      "rank": "C",
-      "percentile": 0.7471618518819576
+      "value": 6,
+      "rank": "B",
+      "percentile": 0.7653642266531063
     },
     {
       "code": "INT",
@@ -50,6 +50,20 @@
   ],
   "events": [
     {
+      "kind": "stat",
+      "subject": "AGI",
+      "from": "C",
+      "to": "B",
+      "at": "2026-11-20T23:03:23.426Z"
+    },
+    {
+      "kind": "achievement",
+      "subject": "raider",
+      "from": "0",
+      "to": "1",
+      "at": "2026-11-20T23:03:23.426Z"
+    },
+    {
       "kind": "level",
       "subject": "Level",
       "from": "4",
@@ -68,7 +82,7 @@
     {
       "id": "pull-shark",
       "tier": 1,
-      "value": 4
+      "value": 5
     },
     {
       "id": "quickdraw",
@@ -78,7 +92,7 @@
     {
       "id": "yolo",
       "tier": 1,
-      "value": 4
+      "value": 5
     },
     {
       "id": "relentless",
@@ -112,8 +126,8 @@
     },
     {
       "id": "raider",
-      "tier": 0,
-      "value": 0
+      "tier": 1,
+      "value": 1
     },
     {
       "id": "flawless",
@@ -158,7 +172,7 @@
     {
       "id": "diligent",
       "tier": 0,
-      "value": 45
+      "value": 46
     },
     {
       "id": "daily-grinder",
@@ -173,12 +187,12 @@
     {
       "id": "quest-hunter",
       "tier": 0,
-      "value": 29
+      "value": 31
     },
     {
       "id": "boss-slayer",
       "tier": 1,
-      "value": 3
+      "value": 4
     },
     {
       "id": "escape-artist",
@@ -193,6 +207,11 @@
   ],
   "quests": {
     "days": [
+      {
+        "date": "2026-11-20",
+        "cleared": 2,
+        "total": 3
+      },
       {
         "date": "2026-11-19",
         "cleared": 1,
@@ -397,8 +416,9 @@
     "perfectDays": 2,
     "run": 0,
     "bestRun": 1,
-    "questsDone": 29,
+    "questsDone": 31,
     "bosses": [
+      "2026-11-16",
       "2026-11-02",
       "2026-10-12",
       "2026-10-05"
@@ -415,5 +435,5 @@
       "three"
     ]
   },
-  "syncedAt": "2026-11-19T23:32:12.066Z"
+  "syncedAt": "2026-11-20T23:03:23.426Z"
 }
