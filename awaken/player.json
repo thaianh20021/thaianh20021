@@ -5,9 +5,9 @@
   "overallPercentile": 0.8466575604067939,
   "layout": "classic",
   "class": {
-    "name": "Summoner",
-    "element": "Spirit",
-    "from": "GDScript"
+    "name": "Grand Magus",
+    "element": "Arcane",
+    "from": "Python"
   },
   "title": "The Collector",
   "stats": [
@@ -69,13 +69,6 @@
       "from": "4",
       "to": "5",
       "at": "2026-11-17T00:46:11.997Z"
-    },
-    {
-      "kind": "achievement",
-      "subject": "collector",
-      "from": "1",
-      "to": "2",
-      "at": "2026-11-14T21:24:59.055Z"
     }
   ],
   "achievements": [
@@ -117,12 +110,12 @@
     {
       "id": "weekend-warrior",
       "tier": 1,
-      "value": 27
+      "value": 28
     },
     {
       "id": "gate-opener",
       "tier": 2,
-      "value": 45
+      "value": 47
     },
     {
       "id": "raider",
@@ -142,7 +135,7 @@
     {
       "id": "polyglot",
       "tier": 2,
-      "value": 7
+      "value": 6
     },
     {
       "id": "star-collector",
@@ -172,7 +165,7 @@
     {
       "id": "diligent",
       "tier": 0,
-      "value": 46
+      "value": 47
     },
     {
       "id": "daily-grinder",
@@ -187,7 +180,7 @@
     {
       "id": "quest-hunter",
       "tier": 0,
-      "value": 31
+      "value": 32
     },
     {
       "id": "boss-slayer",
@@ -207,6 +200,11 @@
   ],
   "quests": {
     "days": [
+      {
+        "date": "2026-11-21",
+        "cleared": 1,
+        "total": 3
+      },
       {
         "date": "2026-11-20",
         "cleared": 2,
@@ -416,7 +414,7 @@
     "perfectDays": 2,
     "run": 0,
     "bestRun": 1,
-    "questsDone": 31,
+    "questsDone": 32,
     "bosses": [
       "2026-11-16",
       "2026-11-02",
@@ -435,5 +433,5 @@
       "three"
     ]
   },
-  "syncedAt": "2026-11-20T23:03:23.426Z"
+  "syncedAt": "2026-11-21T22:09:46.666Z"
 }
