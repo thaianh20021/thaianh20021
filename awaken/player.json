@@ -62,13 +62,6 @@
       "from": "0",
       "to": "1",
       "at": "2026-11-20T23:03:23.426Z"
-    },
-    {
-      "kind": "level",
-      "subject": "Level",
-      "from": "4",
-      "to": "5",
-      "at": "2026-11-17T00:46:11.997Z"
     }
   ],
   "achievements": [
@@ -115,7 +108,7 @@
     {
       "id": "gate-opener",
       "tier": 2,
-      "value": 47
+      "value": 45
     },
     {
       "id": "raider",
@@ -200,6 +193,11 @@
   ],
   "quests": {
     "days": [
+      {
+        "date": "2026-11-23",
+        "cleared": 0,
+        "total": 3
+      },
       {
         "date": "2026-11-22",
         "cleared": 2,
@@ -438,5 +436,5 @@
       "three"
     ]
   },
-  "syncedAt": "2026-11-22T22:25:51.599Z"
+  "syncedAt": "2026-11-24T03:18:07.983Z"
 }
