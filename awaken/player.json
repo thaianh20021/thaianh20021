@@ -2,7 +2,7 @@
   "login": "thaianh20021",
   "level": 5,
   "overall": "B",
-  "overallPercentile": 0.8466575604067939,
+  "overallPercentile": 0.8479456160600952,
   "layout": "classic",
   "class": {
     "name": "Grand Magus",
@@ -19,9 +19,9 @@
     },
     {
       "code": "AGI",
-      "value": 6,
+      "value": 7,
       "rank": "B",
-      "percentile": 0.7653642266531063
+      "percentile": 0.7814694279652441
     },
     {
       "code": "INT",
@@ -48,27 +48,12 @@
       "percentile": 0.6689367771328458
     }
   ],
-  "events": [
-    {
-      "kind": "stat",
-      "subject": "AGI",
-      "from": "C",
-      "to": "B",
-      "at": "2026-11-20T23:03:23.426Z"
-    },
-    {
-      "kind": "achievement",
-      "subject": "raider",
-      "from": "0",
-      "to": "1",
-      "at": "2026-11-20T23:03:23.426Z"
-    }
-  ],
+  "events": [],
   "achievements": [
     {
       "id": "pull-shark",
       "tier": 1,
-      "value": 5
+      "value": 6
     },
     {
       "id": "quickdraw",
@@ -78,7 +63,7 @@
     {
       "id": "yolo",
       "tier": 1,
-      "value": 5
+      "value": 6
     },
     {
       "id": "relentless",
@@ -108,12 +93,12 @@
     {
       "id": "gate-opener",
       "tier": 2,
-      "value": 46
+      "value": 48
     },
     {
       "id": "raider",
       "tier": 1,
-      "value": 1
+      "value": 2
     },
     {
       "id": "flawless",
@@ -158,12 +143,12 @@
     {
       "id": "diligent",
       "tier": 0,
-      "value": 46
+      "value": 47
     },
     {
       "id": "daily-grinder",
       "tier": 0,
-      "value": 2
+      "value": 3
     },
     {
       "id": "perfect-week",
@@ -173,7 +158,7 @@
     {
       "id": "quest-hunter",
       "tier": 0,
-      "value": 36
+      "value": 39
     },
     {
       "id": "boss-slayer",
@@ -193,6 +178,11 @@
   ],
   "quests": {
     "days": [
+      {
+        "date": "2026-11-27",
+        "cleared": 3,
+        "total": 3
+      },
       {
         "date": "2026-11-26",
         "cleared": 1,
@@ -429,10 +419,10 @@
         "total": 3
       }
     ],
-    "perfectDays": 2,
-    "run": 0,
+    "perfectDays": 3,
+    "run": 1,
     "bestRun": 1,
-    "questsDone": 36,
+    "questsDone": 39,
     "bosses": [
       "2026-11-16",
       "2026-11-02",
@@ -451,5 +441,5 @@
       "three"
     ]
   },
-  "syncedAt": "2026-11-27T00:59:24.595Z"
+  "syncedAt": "2026-11-28T00:31:13.323Z"
 }
